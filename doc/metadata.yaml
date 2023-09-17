@@ -1,0 +1,21 @@
+description: MLAB base for modules constructions.
+github_branch: BASE162101A
+github_description: MLAB base for modules constructions.
+github_repo: BASE162101
+github_url: https://github.com/mlab-modules/BASE162101
+homepage: false
+images:
+- doc/img/Obrazek.jpg
+- doc/img/BASE162101A_small.jpg
+- doc/img/Bastl_Ultrazvuk.jpg
+- doc/img/Bastl_Casomira.jpg
+- doc/img/Dural.jpg
+- doc/html/Pictures/image003.jpg
+- doc/html/Pictures/image002.jpg
+- doc/html/Pictures/image001.jpg
+- doc/img/BASE162101A_QRcode.png
+mark: 50
+status: 0
+tags: []
+title: BASE162101
+updated: '2023-09-17T11:30:31.877024+00:00'
